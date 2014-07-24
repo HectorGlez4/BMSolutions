@@ -1,1 +1,9 @@
 Devolucion la hace inventario o ventas????
+Dentro de la cotizacion vamos a manejar los descuentos igual que en la venta?
+La Cotizacion tiene vigencia para poder convertirse en remision/factura directamente?
+	- Si tiene vigencia se especifica al momento de crear la cotizacion o por parametro todas
+	  las cotizaciones tienen la misma vigencia en dias despues de la fecha de expedicion
+Las Cotizaciones deberan indicar el contacto y consignatario del cliente que solicito la cotizacion?
+Se pueden expedir cotizaciones sin tener los productos en existencia?
+	- Verficar exitencia para especificar en la cotizacion que el articulo no esta en existencia y
+	  esta sujeto a cambios de precio o no verificar extistencia
