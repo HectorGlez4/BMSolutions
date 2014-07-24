@@ -1,1 +1,6 @@
+Cotizaciones manejar vigencias???
 Devolucion la hace inventario o ventas????
+Punto de reorden calculado o capturado???
+Proveedor uno solo???
+Como manejar condiciones de pago?
+Como manejar apartados???
