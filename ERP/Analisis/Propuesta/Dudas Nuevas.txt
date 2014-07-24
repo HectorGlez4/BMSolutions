@@ -1,15 +1,26 @@
-Cotizaciones manejar vigencias???
-Devolucion la hace inventario o ventas????
-Punto de reorden calculado o capturado???
-Proveedor uno solo???
-Como manejar condiciones de pago?
-Como manejar apartados???
-Dentro de la cotizacion vamos a manejar los descuentos igual que en la venta?
-La Cotizacion tiene vigencia para poder convertirse en remision/factura directamente?
+1 Cotizaciones manejar vigencias???
+2 Devolucion la hace inventario o ventas????
+3 Punto de reorden calculado o capturado???
+4 Proveedor uno solo???
+5 Como manejar condiciones de pago?
+6 Como manejar apartados???
+7 Dentro de la cotizacion vamos a manejar los descuentos igual que en la venta?
+8 La Cotizacion tiene vigencia para poder convertirse en remision/factura directamente?
 	- Si tiene vigencia se especifica al momento de crear la cotizacion o por parametro todas
 	  las cotizaciones tienen la misma vigencia en dias despues de la fecha de expedicion
-Las Cotizaciones deberan indicar el contacto y consignatario del cliente que solicito la cotizacion?
-Se pueden expedir cotizaciones sin tener los productos en existencia?
+9 Las Cotizaciones deberan indicar el contacto y consignatario del cliente que solicito la cotizacion?
+10 Se pueden expedir cotizaciones sin tener los productos en existencia?
 	- Verficar exitencia para especificar en la cotizacion que el articulo no esta en existencia y
 	  esta sujeto a cambios de precio o no verificar extistencia
+	- No Verificar exitencia hasta el momento de intentar convertirla en una remision/factura
+11 La cancelacion de Cotizaciones es a las cotizaciones vigentes y las cambia de vigentes a -> no vigentes
+(borrado logico)
+12 Para la realizacion de cancelaciones tomamos en cuenta si la mercania ya fue entregada por medio de los tipos de
+ventas para la sucursal
+	-Venta diferida: Verificar que la mercancia no haya sido entregada, si ya fue entregada solicitar
+	 devolucion en almacen
+	-Venta entrega inmediata: Se permite cancelar porque el vendedor deberia recibir la mercancia o
+	 nunca haberla entregado
+	-Venta sin restricciones: Se permite la cancelacion por que no se lleva ningun control sobre el flujo de
+	 productos
 
