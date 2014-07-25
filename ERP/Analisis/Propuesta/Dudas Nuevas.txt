@@ -21,4 +21,8 @@ ventas para la sucursal
 	-Venta sin restricciones: Se permite la cancelacion por que no se lleva ningun control sobre el flujo de
 	 productos
 9 Impuestos
+10 Especificar contacto al momento de realizar orden de compra
+	Siempre
+	Solo si es por correo
+	Nunca
 
