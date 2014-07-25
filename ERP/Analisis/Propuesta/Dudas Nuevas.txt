@@ -23,4 +23,8 @@ ventas para la sucursal
 	 nunca haberla entregado
 	-Venta sin restricciones: Se permite la cancelacion por que no se lleva ningun control sobre el flujo de
 	 productos
+13 Especificar contacto al momento de realizar orden de compra
+	Siempre
+	Solo si es por correo
+	Nunca
 
