@@ -1,14 +1,19 @@
 1 Como manejar el concepto de multiempresas?
+	Si multi-empresa una sola tabla
+	Solucion de manejo
 2 Como manejar condiciones de pago?
-	* 
+	Por cliente Cantidad y dias checar bm
 3 Como manejar apartados???
+	Freddy
 4 Dentro de la cotizacion vamos a manejar los descuentos igual que en la venta?
+	Igual que la venta
 5 La Cotizacion tiene vigencia para poder convertirse en remision/factura directamente?
 	- Si tiene vigencia se especifica al momento de crear la cotizacion o por parametro todas
 	  las cotizaciones tienen la misma vigencia en dias despues de la fecha de expedicion
 6 Las Cotizaciones deberan indicar el contacto y consignatario del cliente que solicito la cotizacion?
+	Especificar contacto y consignataria en la cotizacion
 7 Se pueden expedir cotizaciones sin tener los productos en existencia?
-	- Verficar exitencia para especificar en la cotizacion que el articulo no esta en existencia y
+	- Verficar exitencia para especificar en la cotizacio n que el articulo no esta en existencia y
 	  esta sujeto a cambios de precio o no verificar extistencia
 	- No Verificar exitencia hasta el momento de intentar convertirla en una remision/factura
 8 La cancelacion de Cotizaciones es a las cotizaciones vigentes y las cambia de vigentes a -> no vigentes
@@ -22,10 +27,9 @@ ventas para la sucursal
 	-Venta sin restricciones: Se permite la cancelacion por que no se lleva ningun control sobre el flujo de
 	 productos
 10 Impuestos
-11 Especificar contacto al momento de realizar orden de compra
-	Siempre
-	Solo si es por correo
-	Nunca
-12 En los parametros del Modulo Compras cuales validaziones se quieren conservar
-13 Las facturas que mandan los provedores quien las recibe? Compras|Pagos|Inventarios ?
+	IVA nadamas
+11 En los parametros del Modulo Compras cuales validaziones se quieren conservar
+	El Costo de Compra de los articulos se maneja por articulos
+	El Costos siempre deben de ser netos
+12 Las facturas que mandan los provedores quien las recibe? Compras|Pagos|Inventarios ?
 
