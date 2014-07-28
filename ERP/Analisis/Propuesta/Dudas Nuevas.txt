@@ -27,4 +27,5 @@ ventas para la sucursal
 	Solo si es por correo
 	Nunca
 12 En los parametros del Modulo Compras cuales validaziones se quieren conservar
+13 Las facturas que mandan los provedores quien las recibe? Compras|Pagos|Inventarios ?
 
