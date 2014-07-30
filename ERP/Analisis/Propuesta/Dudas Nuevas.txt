@@ -6,5 +6,8 @@
 3 Cancelacion no recibe mercancia de vuelta y la devolucion si.
 	si las dos reciben la mercancia de nuevo cual es la diferencia entre las dos
 
+4 Las notas de credito de proveedores se agregan en Cuentas por pagar o en Compras
+
+5 Las notas de credito de proveedores tienen que afectar una compra en especifico o solo el saldo de la cuenta en pagos
 
 
