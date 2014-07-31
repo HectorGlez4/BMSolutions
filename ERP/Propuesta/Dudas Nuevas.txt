@@ -10,4 +10,15 @@
 
 5 Las notas de credito de proveedores tienen que afectar una compra en especifico o solo el saldo de la cuenta en pagos
 
+6 Las notas de credito a clientes tienen que ser sobre una remision/factura o libres y agregadas a cuentas del cliente por saldo a favor                           
 
+7 Las cotizaciones solo pueden ser convertidas a remision/factura por el usuario que las creo.
+
+8 Al momento de convertir una cotizacion a remision/factura validamos que los precios de los articulos de la cotizacion no sean menores a los precios de los
+  Articulos actualmente?
+
+9 Las facturas de los proveedores se van a almacenar en el sistema? PDF|XML
+
+10 Las facturas recibidas van a ser concideradas para pagos apartir de la fecha de recepcion o de emision
+
+11 Las condiciones de pago de proveedores van a ser las misma que las de los clientes?
