@@ -22,3 +22,5 @@
 10 Las facturas recibidas van a ser concideradas para pagos apartir de la fecha de recepcion o de emision
 
 11 Las condiciones de pago de proveedores van a ser las misma que las de los clientes?
+
+12 Planeacion de cambio de precios
