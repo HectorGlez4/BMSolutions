@@ -24,3 +24,5 @@
 11 Las condiciones de pago de proveedores van a ser las misma que las de los clientes?
 
 12 Planeacion de cambio de precios
+
+13 Las cuentas por cobrar se generan por factura o simplemente se suman a la cuenta del cliente
