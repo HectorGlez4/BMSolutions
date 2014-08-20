@@ -27,3 +27,6 @@
 	-En que momento se checa si hay cambios de precios planeados para el dia.
 
 13 Las cuentas por cobrar se generan por factura o simplemente se suman a la cuenta del cliente
+
+14 En las devoluciones emiten nota de credito forzosamente o tambien se pueden realizar devoluciones en efectivo
+
