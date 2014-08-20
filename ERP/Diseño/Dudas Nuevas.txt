@@ -1,8 +1,5 @@
 1 Los documentos pueden ser Modificados/Eliminados solo por el dueño del documento o con cualquier usuario con permisos a ese nivel
 
-2 Como manejar apartados???
-	Freddy
-
 3 Cancelacion no recibe mercancia de vuelta y la devolucion si.
 	si las dos reciben la mercancia de nuevo cual es la diferencia entre las dos
 
