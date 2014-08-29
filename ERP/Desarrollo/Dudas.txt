@@ -1,0 +1,2 @@
+Las Polizas de cheques deben ir apuntadas a una factura de un probedor?
+Las Polizas de cheques generan una transaccion en cuenta?
