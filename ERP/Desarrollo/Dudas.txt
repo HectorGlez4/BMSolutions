@@ -1,1 +1,3 @@
-Que es responsable en banco?
+Referencia en transaccion?
+Agregar transaccion despues de conciliar?
+En concilian fecha de filtrado?
